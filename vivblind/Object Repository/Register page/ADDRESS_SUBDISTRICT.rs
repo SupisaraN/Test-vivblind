@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ADDRESS_SUBDISTRICT</name>
+   <tag></tag>
+   <elementGuidId>052257e1-3192-48d9-9756-f453774e3098</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'ADDRESS_SUBDISTRICT' and @name = 'ADDRESS_SUBDISTRICT']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ADDRESS_SUBDISTRICT</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ADDRESS_SUBDISTRICT</value>
+   </webElementProperties>
+</WebElementEntity>
